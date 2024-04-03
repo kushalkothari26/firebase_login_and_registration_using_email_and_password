@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "735362682890",
+    "project_id": "fir-53adb",
+    "storage_bucket": "fir-53adb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735362682890:android:a62fa4052d33a1948b8ff3",
+        "android_client_info": {
+          "package_name": "com.example.logreg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmlVubfxR9Fzd2iEwcSleml398eRidZN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
